@@ -1,1 +1,1 @@
-1 updatepre.thor
+1 data/updatepre.thor
